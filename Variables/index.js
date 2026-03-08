@@ -18,5 +18,6 @@ console.log(pi);
 
 
 
-
+const a = true; // this is boolean type variable, it can only have two values which are true and false
+console.log(a);
 
